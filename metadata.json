@@ -1,0 +1,10 @@
+{
+  "name": "サン宝石 バーコード商品管理システム",
+  "description": "サン宝石の商材（アクセサリー・ほっぺちゃん・ステーショナリー・雑貨など）を写真とバーコード・JANコードで一括管理できる在庫管理＆スキャナーシステム。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
